@@ -1,0 +1,10 @@
+.cell {
+    -fx-display-caret: false;
+    -fx-font-family: "HelveticaNeueLTStd-Roman";
+    -fx-font-size: 12px;
+}
+
+.cell:disabled, .grid:disabled {
+    -fx-opacity: 1.0;
+}
+
