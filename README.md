@@ -1,6 +1,6 @@
 # FindTheWords
 
-A simple "Find Hidden Words" Solver, working with any language as long as you provide the correct Dictionary
+A simple "Find Hidden Words" Solver, working with any language, as long as you provide the correct Dictionary
 
 ## Build With
 
