@@ -10,7 +10,7 @@ A simple "Find Hidden Words" Solver, working with any language, as long as you p
 
 ## Screenshots
 
-![findthewords](https://cloud.githubusercontent.com/assets/22759513/19278177/02449e54-8fe5-11e6-975a-27e142a37c6c.png)
+![findhiddenwords](https://cloud.githubusercontent.com/assets/22759513/19279028/3cdec302-8fe8-11e6-9e82-a10c4b1721d0.png)
 
 ## Authors
 
