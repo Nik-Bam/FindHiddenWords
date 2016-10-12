@@ -14,7 +14,7 @@ A simple "Find Hidden Words" Solver, working with any language, as long as you p
 
 ## Authors
 
-* **Nikos Bampamis** - [Nik-Bam](https://github.com/Nik-Bam)
+* **Nikos Bampamis** - [nikbam](https://github.com/nikbam)
 
 ## License
 
